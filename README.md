@@ -3,7 +3,7 @@ RIGEA is an R software tool for performing regional imaging genetic enrichment a
 
 Please cite the following paper.
 
-Yao X, Cong S, Yan J, Risacher SL, Saykin AJ, Moore JH, Shen L, UK Brain Expression Consortium, for the Alzheimer’s Disease Neuroimaging Initiative. (2019) Regional Imaging Genetic Enrichment Analysis. Bioinformatics, in press. https://doi.org/10.1093/bioinformatics/btz948
+Yao X, Cong S, Yan J, Risacher SL, Saykin AJ, Moore JH, Shen L, UK Brain Expression Consortium, for the Alzheimer’s Disease Neuroimaging Initiative. (2019) Regional Imaging Genetic Enrichment Analysis. Bioinformatics, 36(8):2554-2560. https://doi.org/10.1093/bioinformatics/btz948  
 
 Abstract
 
